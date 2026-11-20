@@ -1,0 +1,8 @@
+[
+  {"id": 1, "descripcion": "Supermercado", "monto": 45000, "categoria": "alimentacion", "fecha": "2026-11-02"},
+  {"id": 2, "descripcion": "Carga de nafta", "monto": 30000, "categoria": "transporte", "fecha": "2026-11-05"},
+  {"id": 3, "descripcion": "Factura de luz", "monto": 18500, "categoria": "servicios", "fecha": "2026-11-08"},
+  {"id": 4, "descripcion": "Cine con amigos", "monto": 12000, "categoria": "ocio", "fecha": "2026-11-10"},
+  {"id": 5, "descripcion": "Verdulería", "monto": 9800, "categoria": "alimentacion", "fecha": "2026-11-12"},
+  {"id": 6, "descripcion": "Alquiler", "monto": 250000, "categoria": "vivienda", "fecha": "2026-10-01"}
+]
